@@ -34,7 +34,7 @@ This week-long course represents a collaborative teaching effort involving the f
 - [Nishadi De Silva](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
 - [Manuel Carbajo Martinez](https://www.ebi.ac.uk/people/person/manuel-carbajo-martinez/), EMBL-EBI, UK
 - [Stuart Brown](https://veupathdb.org/veupathdb/app/static-content/personnel.html), University of Pennsylvania, USA
-- Louisse Mirabueno, EMBL-EBI, UK
+- [Louisse Mirabueno](https://www.ebi.ac.uk/people/person/louisse-mirabueno/), EMBL-EBI, UK
   
 **Appendix**      
   
